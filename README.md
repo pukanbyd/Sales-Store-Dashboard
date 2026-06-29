@@ -25,6 +25,7 @@ This project developed by PowerBI for analyzing store's sales and efficiency
 - Data Tranformation
 
 ## Data Modeling
+![Data Modeling](images/data_modeling.png)
 
-
+## Dashboard
  
