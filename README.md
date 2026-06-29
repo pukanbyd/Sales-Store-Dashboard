@@ -31,18 +31,26 @@ This project developed interative dashboards by PowerBI for analyzing store's sa
 - YOY Sales
 
   ![YOY Dashboard](images/YOY_S.png)
- 
+
+ This dashboard enables users to compare sales performance across periods and monitor sales growth trends over time.
+
 - Product Performance
   
   ![Product Performance](images/Product_Per.png)
+
+  This dashboard helps identify top-performing product's category and monitor product contributions to overall sales.
   
 - Store Performance
 
   ![Store Performance](images/Store_Per.png)
+
+  This dashboard enables users to evaluate store performance and compare sales results across different locations.
   
 - Employee Performance
 
   ![Employee Performance](images/Employee_Per.png)
+
+  This dashboard tracks employee KPIs to support performance evaluation and identify high-performing employees.
   
 - Tier of Customer
 - Delivery & Customer Satisfaction
