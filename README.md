@@ -56,7 +56,7 @@ This project focuses on developing interactive Power BI dashboards to monitor sa
      > This dashboard tracks employee KPIs to support performance evaluation and identify high-performing employees.
   
 
-### Other dashboard pages :  
+Other dashboard pages :  
 - Tier of Customer
 - Delivery & Customer Satisfaction
  
