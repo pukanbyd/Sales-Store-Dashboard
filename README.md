@@ -8,3 +8,23 @@ This project developed by PowerBI for analyzing store's sales and efficiency
 - PowerBI
 - DAX
 - Power Query
+
+## Dataset
+- Customer_Master
+- Customer_Review
+- Employee_Master
+- Inventory_Levels
+- Order_Lines
+- Product_Master
+- Sales_Transaction
+
+## Data Preparation
+- Cleaning data
+- Changed Type
+- Merged Queries
+- Data Tranformation
+
+## Data Modeling
+
+
+ 
