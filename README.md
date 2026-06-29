@@ -2,7 +2,7 @@
 Dashboards that I made when I was intern at EXIM BANK.
 
 ## Overview
-This project developed by PowerBI for analyzing store's sales and efficiency
+This project developed interative dashboards by PowerBI for analyzing store's sales and efficiency.  monitoring sales performance and evaluating employee KPIs.
 
 ## Tool
 - PowerBI
