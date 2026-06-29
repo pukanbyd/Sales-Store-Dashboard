@@ -29,8 +29,11 @@ This project developed interative dashboards by PowerBI for analyzing store's sa
 
 ## Dashboard
 - YOY Sales
+
 ![YOY Dashboard](images/YOY.png)
 - Product Performance
+  
+  ![Product Performance](images/Product_Per.png)
 - Store Performance
 - Employee Performance
 - Tier of Customer
