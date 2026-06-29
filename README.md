@@ -28,4 +28,10 @@ This project developed by PowerBI for analyzing store's sales and efficiency
 ![Data Modeling](images/data_modeling.png)
 
 ## Dashboard
+- Product Performance
+- Store Performance
+- Employee Performance
+- YOY Sales
+- Tier of Customer
+- Delivery & Customer Satisfaction
  
