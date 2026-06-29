@@ -1,8 +1,8 @@
 # Sales-Store-Dashboard
-Dashboards that I made when I was intern at EXIM BANK.
+Interactive dashboards developed during my internship at EXIM Bank.
 
 ## Overview
-This project developed interative dashboards by PowerBI for analyzing store's sales and efficiency.  monitoring sales performance and evaluating employee KPIs.
+This project focuses on developing interactive Power BI dashboards to monitor sales performance, evaluate employee KPIs, and analyze store operations. The dashboards provide insights into sales trends, product performance, store performance, customer segments, and customer satisfaction to support business reporting and performance monitoring.
 
 ## Tool
 - PowerBI
@@ -19,15 +19,15 @@ This project developed interative dashboards by PowerBI for analyzing store's sa
 - Sales_Transaction
 
 ## Data Preparation
-- Cleaning data
-- Changed Type
-- Merged Queries
+- Data Cleaning
+- Data Type Conversion
+- Query Merging
 - Data Tranformation
 
 ## Data Modeling
 ![Data Modeling](images/data_modeling.png)
 
-## Dashboard
+## Dashboard Pages
 - YOY Sales
 
   ![YOY Dashboard](images/YOY_S.png)
@@ -55,7 +55,8 @@ This project developed interative dashboards by PowerBI for analyzing store's sa
 
      > This dashboard tracks employee KPIs to support performance evaluation and identify high-performing employees.
   
-  
+
+### Other dashboard pages :  
 - Tier of Customer
 - Delivery & Customer Satisfaction
  
